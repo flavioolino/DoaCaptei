@@ -1,0 +1,61 @@
+@font-face {
+    font-family: aqum two classic;
+    src: url('Slava Antipov - Aqum two Classic.ttf');
+}
+
+html {
+    font-family: helvetica;
+}
+
+
+header {
+    background: #f59221;
+    padding: 50px 0;
+    }
+
+.caixa {
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    width: 940px;
+    margin: 20px auto;
+}
+
+h1 {
+    font-family: aqum two classic;
+    margin-left: 35px;
+    font-size: 50px;
+    }
+
+nav a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    width: 180px;
+    height: 30px;
+    background: #265cdc;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+nav a:hover {
+    background: #13EF1B
+}
+
+
+li:hover {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+li {
+    vertical-align: middle;
+    list-style: none;
+    padding: 10px;
+    margin: auto;
+}
+
+
+main {
+    margin: 0 50px;
+}
